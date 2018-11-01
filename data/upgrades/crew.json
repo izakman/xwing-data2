@@ -14,7 +14,8 @@
         "ffg": 307
       }
     ],
-    "cost": { "value": 2 }
+    "cost": { "value": 2 },
+    "restrictions": [{ "factions": ["Rebel Alliance"] }]
   },
   {
     "name": "\"Zeb\" Orrelios",
@@ -635,6 +636,7 @@
         "type": "Configuration",
         "ability": "If you are not shielded, decrease the difficulty of your bank ([Bank Left] and [Bank Right]) maneuvers.",
         "slots": ["Configuration"],
+        "image": "https://sb-cdn.fantasyflightgames.com/card_images/Card_Upgrade_158b.png",
         "ffg": 383
       }
     ],
